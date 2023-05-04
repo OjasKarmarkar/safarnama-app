@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "549063852843",
+    "project_id": "safarnama-ipd",
+    "storage_bucket": "safarnama-ipd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:549063852843:android:94793c94ac63288d913b6e",
+        "android_client_info": {
+          "package_name": "com.example.safarnama"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "549063852843-gq5qkt30p98ehgfcmj8hq09os2e0lo3u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.safarnama",
+            "certificate_hash": "5de598707f08d0484356592c01aba78e3150dc3b"
+          }
+        },
+        {
+          "client_id": "549063852843-80bde9gc6rto7hm883eh7pgemaraj1sr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPRGlU46V61IAWPVvsSDsdCpQU1SidaU8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "549063852843-80bde9gc6rto7hm883eh7pgemaraj1sr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
